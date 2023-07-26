@@ -1,1 +1,1 @@
-# aws_restart.
+print("Hello, World")
